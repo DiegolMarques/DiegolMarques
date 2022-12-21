@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**DiegolMarques/DiegolMarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -12,3 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<details>
+  <summary>GitHub Trophies 🏆</summary>
+  <img src="https://github-profile-trophy.vercel.app/?username=DiegolMarques&theme=onedark" alt="Diego's Trophies">
+</details>
