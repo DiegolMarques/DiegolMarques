@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-
-Here are some ideas to get you started:
-
 - 🏫 I'm currently a student at **Cornell University** studying **computer science**.
 - 🔭 I’m currently working on my **Portfolio** with many projects coming up
 - 🌱 I'm generally interested in **Machine Learning**, **NLP**, and **Computer Vision**
