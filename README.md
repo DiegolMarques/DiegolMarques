@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🏫 I'm currently a student at **Cornell University** studying **computer science**.
-- 🔭 I’m currently working on my **Portfolio** with many projects coming up
+- 🔭 I’m currently working on my [Portfolio](https://github.com/DiegolMarques/DiegolMarquesWebsite) with many projects coming up
 - 🌱 I'm generally interested in **Machine Learning**, **NLP**, and **Computer Vision**
 - 💬 Ask me about any of my projects: [Repositories](https://github.com/DiegolMarques?tab=repositories) & [Project Website Coming Soon](soon)
 - 🌐 Visit me at [Wesbite Coming Soon...](soon)
